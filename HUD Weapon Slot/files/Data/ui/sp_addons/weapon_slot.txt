@@ -1,0 +1,2 @@
+weapon_slot
+; Marks the HUD Weapon Slot add-on as installed. Removed again with the add-on.
