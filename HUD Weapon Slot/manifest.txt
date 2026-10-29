@@ -1,7 +1,7 @@
 ; Update list for HUD Weapon Slot. Upload this next to mod.ini and the files folder.
-version=1.8
-93e882693125b905710725e20b94b32fb66bcc18|mod.ini
+version=1.9
+9688b1f897af4cf6b3883dd8f048fab3c0a93836|mod.ini
 7bb68377a9826fd28172d87bb4d6f4c31f285328|files/Data/ui/sp_addons/weapon_slot.txt
-d7e2c2c3a0b34b74ebefd27b0d69327b5088a7ac|files/Data/ui/themes/rose/game/hud.html
+ac898284993cbf704e1f6050592566a66f068dbd|files/Data/ui/themes/rose/game/hud.html
 cfe4c3a63e20ee55e3b512b3366654398eafeeed|files/Data/ui/themes/rose/game/options_bgfx.html
-80a26b6252e1b6dde9cd64c23911e2d2adae0d54|files/Data/ui/themes/rose/styles/sp_addons_steampunk_sprites.css
+62a3c46f80ba6f216e811173802298d1936215ff|files/Data/ui/themes/rose/styles/sp_addons_steampunk_sprites.css
