@@ -2,7 +2,7 @@
 
 Your equipped weapon beside the HUD bars.
 
-Shows your equipped weapon (or your ammo, when you have some equipped) in a slot beside the HP, MP and EXP bars, with its durability, life and refine like the inventory shows them. Switch: the Add-ons button in the menu.
+Shows your equipped weapon (or your ammo, when you have some equipped) in a slot beside the HP, MP and EXP bars, with its durability, life and refine like the inventory shows them, kept up to date during fights (this used to be the separate Weapon Refresh add-on). Switch: the Add-ons button in the menu.
 
 An add-on for [ROSE Mod Launcher](https://github.com/Zurnny/Rose_Mod_Launcher), for the game's default UI and the Steampunk UI theme. Without the launcher, copy the `Data` folder from `files` into your ROSE Online folder.
 
